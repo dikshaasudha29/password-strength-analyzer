@@ -1,0 +1,21 @@
+
+# Project Requirements
+
+## Objective
+Create a Python program that checks whether a password is Weak, Medium, or Strong.
+
+## Functional Requirements
+1. Check password length.
+2. Detect uppercase letters.
+3. Detect numeric digits.
+4. Detect special symbols.
+5. Display the password strength result.
+
+## Implementation
+- Use Python string handling.
+- Use conditional statements.
+- Apply basic password validation.
+- Classify passwords based on the implemented conditions.
+
+## Expected Output
+The program should display password details and classify its strength as Weak, Medium, or Strong.
