@@ -1,5 +1,5 @@
 
-# Password Strength Checker 🔐
+# Password Strength Checker 
 
 A Python-based Password Strength Checker developed as part of the DecodeLabs Cybersecurity Project.
 
